@@ -18,12 +18,12 @@ Video Content Understanding, Video Aesthetic Assessment, Quality of Experience
 
 ## Publications
 
-C1. **Guolong Wang**, Junchi Yan, Zheng Qin. Collaborative and Attentive Learning for Personalized Image Aesthetic Assessment. IJCAI 2018: 957-963.
-C2. **Guolong Wang**, et al. Bridge Video and Text with Cascade Syntactic Structure. COLING 2018: 3576-3585
-C3. **Wang, Guolong**, et al. Recognizing Emotions Based on Human Actions in Videos. International Conference on Multimedia Modeling Springer International Publishing, 2017:306-317.
-C4. **Wang, Guolong**, et al. Semantic Sequence Analysis for Human Activity Prediction. Pacific Rim Conference on Multimedia Springer, Cham, 2017:269-279.
-B1. Zheng Qin, Huidi Zhang, Xin Qin, Kaiping Xu, **Guolong Wang**, Wenhui Yu: Fundamentals of Software Culture. Springer 2018, ISBN 978-981-13-0700-3, pp. 1-191
-B2. Zheng Qin, **Guolong Wang**, et al. Introduction to E-commerce(Chs Ver.). Higher Education Press, ISBN 978-704-04-7572-2
+<br/>C1. **Guolong Wang**, Junchi Yan, Zheng Qin. Collaborative and Attentive Learning for Personalized Image Aesthetic Assessment. IJCAI 2018: 957-963.
+<br/>C2. **Guolong Wang**, et al. Bridge Video and Text with Cascade Syntactic Structure. COLING 2018: 3576-3585
+<br/>C3. **Wang, Guolong**, et al. Recognizing Emotions Based on Human Actions in Videos. International Conference on Multimedia Modeling Springer International Publishing, 2017:306-317.
+<br/>C4. **Wang, Guolong**, et al. Semantic Sequence Analysis for Human Activity Prediction. Pacific Rim Conference on Multimedia Springer, Cham, 2017:269-279.
+<br/>B1. Zheng Qin, Huidi Zhang, Xin Qin, Kaiping Xu, **Guolong Wang**, Wenhui Yu: Fundamentals of Software Culture. Springer 2018, ISBN 978-981-13-0700-3, pp. 1-191
+<br/>B2. Zheng Qin, **Guolong Wang**, et al. Introduction to E-commerce(Chs Ver.). Higher Education Press, ISBN 978-704-04-7572-2
 
 ## Honors and Awards
 
