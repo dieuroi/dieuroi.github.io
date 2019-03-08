@@ -4,8 +4,6 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profile.jpg" width="20%">
-
 I am a Ph.D. student of Computer Science at Tsinghua University, Beijing.
 
 ## Research
