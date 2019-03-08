@@ -10,7 +10,7 @@ I am a Ph.D. student of Computer Science at Tsinghua University, Beijing.
 
 Video Content Understanding, Video Aesthetic Assessment, Quality of Experience
 
-## Publications
+## Education
 
 1. Ph.D. in Computer Science, 2016-Present, School of Software, Tsinghua University, Beijing, China
 2. Master in Computer Science, 2013-2016, School of Software, Tsinghua University, Beijing, China
@@ -23,7 +23,7 @@ Video Content Understanding, Video Aesthetic Assessment, Quality of Experience
 3. Wang, Guolong, et al. Recognizing Emotions Based on Human Actions in Videos. International Conference on Multimedia Modeling Springer International Publishing, 2017:306-317.
 4. Wang, Guolong, et al. Semantic Sequence Analysis for Human Activity Prediction. Pacific Rim Conference on Multimedia Springer, Cham, 2017:269-279.
 
-## Publications
+## Honors and Awards
 
 Year | Award | Category
 -----|-------|--------
