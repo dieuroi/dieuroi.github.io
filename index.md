@@ -4,42 +4,43 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I am a Ph.D. student of Computer Science at Tsinghua University, Beijing.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## Research
 
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Video Content Understanding, Video Aesthetic Assessment, Quality of Experience
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Ph.D. in Computer Science, 2016-Present, School of Software, Tsinghua University, Beijing, China
+2. Master in Computer Science, 2013-2016, School of Software, Tsinghua University, Beijing, China
+3. B.E. in Automation, 2009-2013, Southwest Jiaotong University, Chengdu, China
 
-## Typography
+## Publications
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+1. Guolong Wang, Junchi Yan, Zheng Qin. Collaborative and Attentive Learning for Personalized Image Aesthetic Assessment. IJCAI 2018: 957-963.
+2. Guolong Wang, et al. Bridge Video and Text with Cascade Syntactic Structure. COLING 2018: 3576-3585
+3. Wang, Guolong, et al. Recognizing Emotions Based on Human Actions in Videos. International Conference on Multimedia Modeling Springer International Publishing, 2017:306-317.
+4. Wang, Guolong, et al. Semantic Sequence Analysis for Human Activity Prediction. Pacific Rim Conference on Multimedia Springer, Cham, 2017:269-279.
 
-Here is a table
+## Publications
 
 Year | Award | Category
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2015 | Gold Medal | 43rd International Exhibition of Inventions of Geneva
+2016 | Gold Medal | 44th International Exhibition of Inventions of Geneva
+2016 | Beijing Outstanding Graduates |
+2017 | First Prize | Beijing Higher Education Achievement Award
+2018 | Silver Medal | 46th International Exhibition of Inventions of Geneva
 
-Here is a horizontal rule
+## Teaching
+
+* Teaching Assistant: Introduction to E-commerce, 2014-Present
+* Teaching Assistant: Introduction to Software Culture, 2014-Present
 
 ---
 
-Here is a blockquote
+> Just take a faith leap and be your own hero!
 
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
