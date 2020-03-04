@@ -25,8 +25,10 @@ Video Content Understanding, Video Aesthetic Assessment, Quality of Experience
 * C5. Kaiping Xu, Zheng Qin, **Guolong Wang**. Recognize human activities from multi-part missing videos. IEEE International Conference on Multimedia and Expo (ICME) 2016:1-6.
 * C6. Kaiping Xu, Zheng Qin, **Guolong Wang**. Human activities prediction by learning combinatorial sparse representations. IEEE International Conference on Image Processing (ICIP) 2016:724-728.
 * C7. Kaiping Xu, Zheng Qin, **Guolong Wang**, et al. Collision-Free LSTM for Human Trajectory Prediction. International Conference on Multimedia Modeling Springer, Cham, 2018:106-116.
+
 ### Journal Paper
 * J1. Kaiping Xu, Zheng Qin, **Guolong Wang**, et al. Multi-focus Image Fusion using Fully Convolutional Two-stream Network for Visual Sensors. TIIS, 2018, 12(5): 2253-2272.
+
 ### Book
 * B1. Zheng Qin, Huidi Zhang, Xin Qin, Kaiping Xu, **Guolong Wang**, Wenhui Yu: Fundamentals of Software Culture. Springer 2018, ISBN 978-981-13-0700-3, pp. 1-191
 * B2. Zheng Qin, **Guolong Wang**, et al. Introduction to E-commerce(Chs Ver.). Higher Education Press, ISBN 978-704-04-7572-2
@@ -45,6 +47,8 @@ Year | Award | Category
 
 * Teaching Assistant: Introduction to E-commerce, 2014-Present
 * Teaching Assistant: Introduction to Software Culture, 2014-Present
+* Teaching Assistant: The Impact of Big Data on the Future Society, 2014-Present
+* Teaching Assistant: The Impact of Innovation Driven AI on the Future Society, 2014-Present
 
 ---
 
