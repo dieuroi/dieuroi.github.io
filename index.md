@@ -42,11 +42,12 @@ Video Content Understanding, Video Aesthetic Assessment, Quality of Experience
 
 Year | Award | Category
 -----|-------|--------
-2015 | Gold Medal | 43rd International Exhibition of Inventions of Geneva
+2018 | Silver Medal | 46th International Exhibition of Inventions of Geneva
+2017 | First Prize | Beijing Higher Education Achievement Award
 2016 | Gold Medal | 44th International Exhibition of Inventions of Geneva
 2016 | Beijing Outstanding Graduates |
-2017 | First Prize | Beijing Higher Education Achievement Award
-2018 | Silver Medal | 46th International Exhibition of Inventions of Geneva
+2015 | Gold Medal | 43rd International Exhibition of Inventions of Geneva
+
 
 ## Teaching
 
