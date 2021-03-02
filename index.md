@@ -18,7 +18,8 @@ Video Content Understanding, Video Aesthetic Assessment, Quality of Experience
 
 ## Publications
 ### Conference Paper
-* **Learning to Select Elements for Graphic Design**. **Guolong Wang**, Junchi Yan, Zheng Qin. ICMR 2020: 91-99.
+* **Learning to Select Elements for Graphic Design**. 
+**Guolong Wang**, Junchi Yan, Zheng Qin. ICMR 2020: 91-99.
 * **Towards Personalized Aesthetic Image Caption**. Kun Xiong, Liu Jiang, Xuan Dang, **Guolong Wang**, Wenwen Ye, Zheng Qin. IJCNN 2020: 1-8.
 * **Delving into Precise Attention in Image Captioning**. Shaohan Hu, Shenglei Huang, **Guolong Wang**, Zhipeng Li, Zheng Qin. ICONIP 2019: 74-82.
 * **Collaborative and Attentive Learning for Personalized Image Aesthetic Assessment**. **Guolong Wang**, Junchi Yan, Zheng Qin. IJCAI 2018: 957-963.
