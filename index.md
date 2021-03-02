@@ -20,17 +20,28 @@ Video Content Understanding, Video Aesthetic Assessment, Quality of Experience
 ### Conference Paper
 * **Learning to Select Elements for Graphic Design**.  
 **Guolong Wang**, Junchi Yan, Zheng Qin. ICMR 2020: 91-99.
-* **Towards Personalized Aesthetic Image Caption**. Kun Xiong, Liu Jiang, Xuan Dang, **Guolong Wang**, Wenwen Ye, Zheng Qin. IJCNN 2020: 1-8.
-* **Delving into Precise Attention in Image Captioning**. Shaohan Hu, Shenglei Huang, **Guolong Wang**, Zhipeng Li, Zheng Qin. ICONIP 2019: 74-82.
-* **Collaborative and Attentive Learning for Personalized Image Aesthetic Assessment**. **Guolong Wang**, Junchi Yan, Zheng Qin. IJCAI 2018: 957-963.
-* **Bridge Video and Text with Cascade Syntactic Structure**. **Guolong Wang**, et al. COLING 2018: 3576-3585.
-* **Collision-Free LSTM for Human Trajectory Prediction**. Kaiping Xu, Zheng Qin, **Guolong Wang**, et al. MMM 2018:106-116.
-* **Recognizing Emotions Based on Human Actions in Videos**. **Guolong Wang**, et al. MMM 2017:306-317.
-* **Semantic Sequence Analysis for Human Activity Prediction**. **Guolong Wang**, et al. PCM 2017:269-279.
-* **Multi-modality Fusion Network for Action Recognition**. Kai Huang, Zheng Qin, Kaiping Xu, Shuxiong Ye, **Guolong Wang**. PCM 2017: 139-149
-* **Semantic R-CNN for Natural Language Object Detection**. Shuxiong Ye, Zheng Qin, Kaiping Xu, Kai Huang, **Guolong Wang**. PCM 2017: 98-107
-* **Recognize human activities from multi-part missing videos**. Kaiping Xu, Zheng Qin, **Guolong Wang**. ICME 2016:1-6.
-* **Human activities prediction by learning combinatorial sparse representations**. Kaiping Xu, Zheng Qin, **Guolong Wang**. ICIP 2016:724-728.
+* **Towards Personalized Aesthetic Image Caption**.  
+Kun Xiong, Liu Jiang, Xuan Dang, **Guolong Wang**, Wenwen Ye, Zheng Qin. IJCNN 2020: 1-8.
+* **Delving into Precise Attention in Image Captioning**.  
+Shaohan Hu, Shenglei Huang, **Guolong Wang**, Zhipeng Li, Zheng Qin. ICONIP 2019: 74-82.
+* **Collaborative and Attentive Learning for Personalized Image Aesthetic Assessment**.  
+**Guolong Wang**, Junchi Yan, Zheng Qin. IJCAI 2018: 957-963.
+* **Bridge Video and Text with Cascade Syntactic Structure**.  
+**Guolong Wang**, et al. COLING 2018: 3576-3585.
+* **Collision-Free LSTM for Human Trajectory Prediction**.  
+Kaiping Xu, Zheng Qin, **Guolong Wang**, et al. MMM 2018:106-116.
+* **Recognizing Emotions Based on Human Actions in Videos**.  
+**Guolong Wang**, et al. MMM 2017:306-317.
+* **Semantic Sequence Analysis for Human Activity Prediction**.  
+**Guolong Wang**, et al. PCM 2017:269-279.
+* **Multi-modality Fusion Network for Action Recognition**.  
+Kai Huang, Zheng Qin, Kaiping Xu, Shuxiong Ye, **Guolong Wang**. PCM 2017: 139-149
+* **Semantic R-CNN for Natural Language Object Detection**.  
+Shuxiong Ye, Zheng Qin, Kaiping Xu, Kai Huang, **Guolong Wang**. PCM 2017: 98-107
+* **Recognize human activities from multi-part missing videos**.  
+Kaiping Xu, Zheng Qin, **Guolong Wang**. ICME 2016:1-6.
+* **Human activities prediction by learning combinatorial sparse representations**.  
+Kaiping Xu, Zheng Qin, **Guolong Wang**. ICIP 2016:724-728.
 
 ### Journal Paper
 * **Multi-focus Image Fusion using Fully Convolutional Two-stream Network for Visual Sensors**. Kaiping Xu, Zheng Qin, **Guolong Wang**, et al. TIIS, 2018, 12(5): 2253-2272.
