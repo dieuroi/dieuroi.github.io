@@ -44,7 +44,8 @@ Kaiping Xu, Zheng Qin, **Guolong Wang**. ICME 2016:1-6.
 Kaiping Xu, Zheng Qin, **Guolong Wang**. ICIP 2016:724-728.
 
 ### Journal Paper
-* **Multi-focus Image Fusion using Fully Convolutional Two-stream Network for Visual Sensors**. Kaiping Xu, Zheng Qin, **Guolong Wang**, et al. TIIS, 2018, 12(5): 2253-2272.
+* **Multi-focus Image Fusion using Fully Convolutional Two-stream Network for Visual Sensors**.  
+Kaiping Xu, Zheng Qin, **Guolong Wang**, et al. TIIS, 2018, 12(5): 2253-2272.
 
 ### Book
 * **Fundamentals of Software Culture**. Zheng Qin, Huidi Zhang, Xin Qin, Kaiping Xu, **Guolong Wang**, Wenhui Yu. Springer 2018, ISBN 978-981-13-0700-3, pp. 1-191
