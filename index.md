@@ -4,16 +4,16 @@ layout: default
 
 ## About Me
 
-I am a Ph.D. student of Computer Science at Tsinghua University, Beijing.
+I am an assistant professor at <a href="http://it.uibe.edu.cn/">School of Information Technology & Management, University of International Business and Economics</a>, Beijing, where I work on deep learning, computer vision, and electronic business, etc. Before that, I did my PhD and Master at school of Software, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, where I was supervised by Prof. <a href="https://www.thss.tsinghua.edu.cn/en/faculty/zhengqin.htm">Zheng Qin</a></a>. I did my bachelor at school of information science and technology, <a href="https://www.swjtu.edu.cn/">Southwest Jiaotong University</a>.
 
 ## Research
 
-Video Content Understanding, Video Aesthetic Assessment, Quality of Experience
+Video Content Understanding, Aesthetic Assessment, Quality of Experience, Electronic Business
 
 ## Education
 
-1. Ph.D. in Computer Science, 2016-Present, School of Software, Tsinghua University, Beijing, China
-2. Master in Computer Science, 2013-2016, School of Software, Tsinghua University, Beijing, China
+1. Ph.D. in Software Engineering, 2016-Present, School of Software, Tsinghua University, Beijing, China
+2. Master in Software Engineering, 2013-2016, School of Software, Tsinghua University, Beijing, China
 3. B.E. in Automation, 2009-2013, Southwest Jiaotong University, Chengdu, China
 
 ## Publications
@@ -64,6 +64,8 @@ Year | Award | Category
 
 ## Teaching
 
+* Teaching: Practical Machine Learning (Python), 2021
+* Teaching: Software Construction, 2021
 * Teaching Assistant: Introduction to E-commerce, 2014-Present
 * Teaching Assistant: Introduction to Software Culture, 2014-Present
 * Teaching Assistant: The Impact of Big Data on the Future Society, 2014-Present
