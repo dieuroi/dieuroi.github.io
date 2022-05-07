@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am an assistant professor at <a href="http://it.uibe.edu.cn/">School of Information Technology & Management, University of International Business and Economics</a>, Beijing, where I work on deep learning, computer vision, and electronic business, etc. Before that, I did my PhD and Master at school of Software, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, where I was supervised by Prof. <a href="https://www.thss.tsinghua.edu.cn/en/faculty/zhengqin.htm">Zheng Qin</a></a>. I did my bachelor at school of information science and technology, <a href="https://www.swjtu.edu.cn/">Southwest Jiaotong University</a>.
+I am an assistant professor at [School of Information Technology & Management, University of International Business and Economics](http://it.uibe.edu.cn/), Beijing, where I work on deep learning, computer vision, and electronic business, etc. Before that, I did my PhD and Master at school of Software, [Tsinghua University](https://www.tsinghua.edu.cn/), where I was supervised by Prof. [Zheng Qin](https://www.thss.tsinghua.edu.cn/en/faculty/zhengqin.htm). I did my bachelor at school of information science and technology, [Southwest Jiaotong University](https://www.swjtu.edu.cn/).
 
 ## Research
 
