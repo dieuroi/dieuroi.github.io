@@ -12,7 +12,7 @@ Video Content Understanding, Aesthetic Assessment, Quality of Experience, Electr
 
 ## Education
 
-1. Ph.D. in Software Engineering, 2016-Present, School of Software, Tsinghua University, Beijing, China
+1. Ph.D. in Software Engineering, 2016-2021, School of Software, Tsinghua University, Beijing, China
 2. Master in Software Engineering, 2013-2016, School of Software, Tsinghua University, Beijing, China
 3. B.E. in Automation, 2009-2013, Southwest Jiaotong University, Chengdu, China
 
