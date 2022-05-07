@@ -10,12 +10,6 @@ I am an assistant professor at [School of Information Technology & Management, U
 
 Video Content Understanding, Aesthetic Assessment, Quality of Experience, Electronic Business
 
-## Education
-
-1. Ph.D. in Software Engineering, 2016-2021, School of Software, Tsinghua University, Beijing, China
-2. Master in Software Engineering, 2013-2016, School of Software, Tsinghua University, Beijing, China
-3. B.E. in Automation, 2009-2013, Southwest Jiaotong University, Chengdu, China
-
 ## Publications
 ### Conference Paper
 * **Learning to Select Elements for Graphic Design**.  
@@ -40,15 +34,14 @@ Kai Huang, Zheng Qin, Kaiping Xu, Shuxiong Ye, **Guolong Wang**. PCM 2017: 139-1
 Shuxiong Ye, Zheng Qin, Kaiping Xu, Kai Huang, **Guolong Wang**. PCM 2017: 98-107
 * **Recognize human activities from multi-part missing videos**.  
 Kaiping Xu, Zheng Qin, **Guolong Wang**. ICME 2016:1-6.
-* **Human activities prediction by learning combinatorial sparse representations**.  
-Kaiping Xu, Zheng Qin, **Guolong Wang**. ICIP 2016:724-728.
 
 ### Journal Paper
 * **Multi-focus Image Fusion using Fully Convolutional Two-stream Network for Visual Sensors**.  
 Kaiping Xu, Zheng Qin, **Guolong Wang**, et al. TIIS, 2018, 12(5): 2253-2272.
 
 ### Book
-* **Fundamentals of Software Culture**. Zheng Qin, Huidi Zhang, Xin Qin, Kaiping Xu, **Guolong Wang**, Wenhui Yu. Springer 2018, ISBN 978-981-13-0700-3, pp. 1-191
+* **E-commerce(Chs Ver.)**. Zheng Qin, Qinghong Shuai, **Guolong Wang**, et al. Tsinghua University Press, 2022, ISBN 978-730-25-9674-5
+* **Fundamentals of Software Culture**. Zheng Qin, Huidi Zhang, Xin Qin, Kaiping Xu, **Guolong Wang**, Wenhui Yu. Springer, 2018, ISBN 978-981-13-0700-3
 * **Introduction to E-commerce(Chs Ver.)**. Zheng Qin, **Guolong Wang**, et al. Higher Education Press, ISBN 978-704-04-7572-2
 
 ## Honors and Awards
