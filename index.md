@@ -13,50 +13,51 @@ Video Content Understanding, Aesthetic Assessment, Quality of Experience, Electr
 ## Publications
 ### Conference Paper
 * **Dense Video Captioning for Incomplete Videos**.  
-** ICANN 2021 **.
+**ICANN 2021**.
 Xuan Dang, **Guolong Wang**, Kun Xiong, Zheng Qin. 
 
 * **Learning to Select Elements for Graphic Design**. 
-** ICMR 2020 **. 
+**ICMR 2020**. 
 **Guolong Wang**, Junchi Yan, Zheng Qin.
 
 * **Towards Personalized Aesthetic Image Caption**.  
-** IJCNN 2020 **. 
+**IJCNN 2020**. 
 Kun Xiong, Liu Jiang, Xuan Dang, **Guolong Wang**, Wenwen Ye, Zheng Qin. 
 
 * **Delving into Precise Attention in Image Captioning**.  
-** ICONIP 2019 **.
+**ICONIP 2019**.
 Shaohan Hu, Shenglei Huang, **Guolong Wang**, Zhipeng Li, Zheng Qin. 
 
 * **Collaborative and Attentive Learning for Personalized Image Aesthetic Assessment**. 
-** IJCAI 2018 **. 
+**IJCAI 2018**. 
 **Guolong Wang**, Junchi Yan, Zheng Qin.
 
 * **Bridge Video and Text with Cascade Syntactic Structure**. 
-** COLING 2018 **.  
+**COLING 2018**.  
 **Guolong Wang**, et al. COLING 2018: 3576-3585.
 
-* **Collision-Free LSTM for Human Trajectory Prediction**.  
-Kaiping Xu, Zheng Qin, **Guolong Wang**, et al. MMM 2018:106-116.
+* **Collision-Free LSTM for Human Trajectory Prediction**. 
+**MMM 2018**
+Kaiping Xu, Zheng Qin, **Guolong Wang**, et al.
 
 * **Recognizing Emotions Based on Human Actions in Videos**. 
-** MMM 2017 **.
+**MMM 2017**.
 **Guolong Wang**, et al. 
 
 * **Semantic Sequence Analysis for Human Activity Prediction**.  
-** PCM 2017 **.
+**PCM 2017**.
 **Guolong Wang**, et al. 
 
 * **Multi-modality Fusion Network for Action Recognition**.  
-** PCM 2017 **.
+**PCM 2017**.
 Kai Huang, Zheng Qin, Kaiping Xu, Shuxiong Ye, **Guolong Wang**. 
 
 * **Semantic R-CNN for Natural Language Object Detection**.  
-** PCM 2017 **.
+**PCM 2017**.
 Shuxiong Ye, Zheng Qin, Kaiping Xu, Kai Huang, **Guolong Wang**. 
 
 * **Recognize human activities from multi-part missing videos**. 
-** ICME 2016 **. 
+**ICME 2016**. 
 Kaiping Xu, Zheng Qin, **Guolong Wang**. 
 
 ### Journal Paper
