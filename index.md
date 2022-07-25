@@ -65,11 +65,13 @@ Kaiping Xu, Zheng Qin, **Guolong Wang**.
 Kaiping Xu, Zheng Qin, **Guolong Wang**, et al. TIIS, 2018, 12(5): 2253-2272.
 
 ### Book
-* **E-commerce(Chs Ver.)**. Zheng Qin, Qinghong Shuai, **Guolong Wang**, et al. Tsinghua University Press, 2022, ISBN 978-730-25-9674-5
+* **E-commerce(Chs Ver.)**. Zheng Qin, **Guolong Wang**, et al. Tsinghua University Press, 2022, ISBN 978-730-26-1142-4.
 
-* **Fundamentals of Software Culture**. Zheng Qin, Huidi Zhang, Xin Qin, Kaiping Xu, **Guolong Wang**, Wenhui Yu. Springer, 2018, ISBN 978-981-13-0700-3
+* **E-commerce(Chs Ver.)**. Zheng Qin, Qinghong Shuai, **Guolong Wang**, et al. Tsinghua University Press, 2022, ISBN 978-730-25-9674-5.
 
-* **Introduction to E-commerce(Chs Ver.)**. Zheng Qin, **Guolong Wang**, et al. Higher Education Press, ISBN 978-704-04-7572-2
+* **Fundamentals of Software Culture**. Zheng Qin, Huidi Zhang, Xin Qin, Kaiping Xu, **Guolong Wang**, Wenhui Yu. Springer, 2018, ISBN 978-981-13-0700-3.
+
+* **Introduction to E-commerce(Chs Ver.)**. Zheng Qin, **Guolong Wang**, et al. Higher Education Press, ISBN 978-704-04-7572-2.
 
 ## Honors and Awards
 
@@ -90,6 +92,13 @@ Year | Award | Category
 * Teaching Assistant: Introduction to Software Culture, 2014-Present
 * Teaching Assistant: The Impact of Big Data on the Future Society, 2014-Present
 * Teaching Assistant: The Impact of Innovation Driven AI on the Future Society, 2014-Present
+
+
+
+## Professional Services
+
+* Conference Reviewer for ACM MM, ICME.
+* Journal Reviewer for IEEE Transactions on Neural Networks and Learning Systems, Neurocomputing, Information Processing and Management
 
 ---
 
