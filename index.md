@@ -12,8 +12,8 @@ Video Content Understanding, Aesthetic Assessment, Quality of Experience, Electr
 
 ## Selected Publications
 ### Conference Paper
-* **Instance-Aware Hierarchical Structured Policy for Prompt learning in Vision-Language Models**.  
-**ICASSP 2023  (Top 3% Paper Recognition)**.  
+* **Instance-Aware Hierarchical Structured Policy for Prompt learning in Vision-Language Models (Top 3% Paper Recognition)**.  
+**ICASSP 2023**.  
 Xun Wu, **Guolong Wang**, Zhaoyuan Liu, Xuan Dang, Zheng Qin. 
 
 * **Prompt-based Zero-shot Video Moment Retrieval**.  
