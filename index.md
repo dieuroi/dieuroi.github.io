@@ -10,8 +10,16 @@ I am an assistant professor at [School of Information Technology & Management, U
 
 Video Content Understanding, Aesthetic Assessment, Quality of Experience, Electronic Business
 
-## Publications
+## Selected Publications
 ### Conference Paper
+* **Instance-Aware Hierarchical Structured Policy for Prompt learning in Vision-Language Models**.  
+**ICASSP 2023  (Top 3% Paper Recognition)**.  
+Xun Wu, **Guolong Wang**, Zhaoyuan Liu, Xuan Dang, Zheng Qin. 
+
+* **Prompt-based Zero-shot Video Moment Retrieval**.  
+**ACM Multimedia 2022**.  
+**Guolong Wang**, Xun Wu, Zhaoyuan Liu, Junchi Yan. 
+
 * **Dense Video Captioning for Incomplete Videos**.  
 **ICANN 2021**.  
 Xuan Dang, **Guolong Wang**, Kun Xiong, Zheng Qin. 
@@ -48,23 +56,16 @@ Kaiping Xu, Zheng Qin, **Guolong Wang**, et al.
 **PCM 2017**.  
 **Guolong Wang**, et al. 
 
-* **Multi-modality Fusion Network for Action Recognition**.  
-**PCM 2017**.  
-Kai Huang, Zheng Qin, Kaiping Xu, Shuxiong Ye, **Guolong Wang**. 
-
-* **Semantic R-CNN for Natural Language Object Detection**.  
-**PCM 2017**.  
-Shuxiong Ye, Zheng Qin, Kaiping Xu, Kai Huang, **Guolong Wang**. 
-
-* **Recognize human activities from multi-part missing videos**.  
-**ICME 2016**.  
-Kaiping Xu, Zheng Qin, **Guolong Wang**. 
-
 ### Journal Paper
+* **Reducing 0s Bias in Video Moment Retrieval with a Circular Competence-based Captioner**.  
+**Guolong Wang**, Xun Wu, Zhaoyuan Liu, Zheng Qin. Information Processing & Management, 2023, 60(2), 103147.
+  
 * **Multi-focus Image Fusion using Fully Convolutional Two-stream Network for Visual Sensors**.  
 Kaiping Xu, Zheng Qin, **Guolong Wang**, et al. TIIS, 2018, 12(5): 2253-2272.
 
 ### Book
+* **E-commerce: Concepts, Principles, and Application**. Zheng Qin, Qinghong Shuai, **Guolong Wang**, et al. Springer, 2022, ISBN 978-981-19-6437-4.
+
 * **E-commerce(Chs Ver.)**. Zheng Qin, **Guolong Wang**, et al. Tsinghua University Press, 2022, ISBN 978-730-26-1142-4.
 
 * **E-commerce(Chs Ver.)**. Zheng Qin, Qinghong Shuai, **Guolong Wang**, et al. Tsinghua University Press, 2022, ISBN 978-730-25-9674-5.
@@ -86,10 +87,10 @@ Year | Award | Category
 
 ## Teaching
 
-* Teaching: Practical Machine Learning (Python), 2021
-* Teaching: Software Construction, 2021
-* Teaching Assistant: Introduction to E-commerce, 2014-Present
-* Teaching Assistant: Introduction to Software Culture, 2014-Present
+* Teaching: Practical Machine Learning, 2021-Present
+* Teaching: Software Construction, 2021-Present
+* Teaching Assistant: Introduction to E-commerce, 2014-2021
+* Teaching Assistant: Introduction to Software Culture, 2014-2021
 * Teaching Assistant: The Impact of Big Data on the Future Society, 2014-Present
 * Teaching Assistant: The Impact of Innovation Driven AI on the Future Society, 2014-Present
 
@@ -97,7 +98,7 @@ Year | Award | Category
 
 ## Professional Services
 
-* Conference Reviewer for ACM MM, ICME.
+* Conference Reviewer for ACM Multimedia, ICME, ICASSP.
 * Journal Reviewer for IEEE Transactions on Neural Networks and Learning Systems, Neurocomputing, Information Processing and Management
 
 ---
