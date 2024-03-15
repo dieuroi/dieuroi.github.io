@@ -16,9 +16,9 @@ Video Content Understanding, Aesthetic Assessment, Quality of Experience, Electr
 **ICME 2024**.  
 Xuan Dang, Xun Wu, **Guolong Wang**, Zheng Qin. 
 
-* **Keep Knowledge in Perception: Zero-Shot Image Aesthetic Assessment**. [code](https://github.com/LikeGiver/KZIAA) 
+* **Keep Knowledge in Perception: Zero-Shot Image Aesthetic Assessment [[code]](https://github.com/LikeGiver/KZIAA)**.  
 **ICASSP 2024**.  
-**Guolong Wang**, et al. 
+**Guolong Wang**, Yike Tan, Hangyu Lin, Chuchun Zhang. 
 
 * **Instance-Aware Hierarchical Structured Policy for Prompt learning in Vision-Language Models (Top 3% Paper Recognition)**.  
 **ICASSP 2023**.  
@@ -38,7 +38,7 @@ Xun Wu, **Guolong Wang**, Zhaoyuan Liu, Xuan Dang, Zheng Qin.
 
 * **Bridge Video and Text with Cascade Syntactic Structure**.  
 **COLING 2018**.  
-**Guolong Wang**, et al. COLING 2018: 3576-3585.
+**Guolong Wang**, Zheng Qin, Kaiping Xu, Kai Huang, Shuxiong Ye.
 
 * **Collision-Free LSTM for Human Trajectory Prediction**.  
 **MMM 2018**  
