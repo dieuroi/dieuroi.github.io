@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am an assistant professor at [School of Information Technology & Management, University of International Business and Economics](http://it.uibe.edu.cn/), Beijing, where I work on deep learning, computer vision, and electronic business, etc. Before that, I did my PhD and Master at school of Software, [Tsinghua University](https://www.tsinghua.edu.cn/), where I was supervised by Prof. [Zheng Qin](https://www.thss.tsinghua.edu.cn/en/faculty/zhengqin.htm). I did my bachelor at school of information science and technology, [Southwest Jiaotong University](https://www.swjtu.edu.cn/).
+I am an assistant professor at [School of Information Technology & Management, University of International Business and Economics](http://it.uibe.edu.cn/), Beijing, where I work on deep learning, computer vision, and electronic business, etc. Before that, I did my PhD and Master at school of Software, [Tsinghua University](https://www.tsinghua.edu.cn/), where I was supervised by Prof. [Zheng Qin](https://www.thss.tsinghua.edu.cn/en/faculty/zhengqin.htm). I did my bachelor at school of information science and technology, [Southwest Jiaotong University](https://www.swjtu.edu.cn/). In the course of my research, I am delighted to cooperated with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/), and Dr. [Xu Chen](https://xu-chen.com/).
 
 ## Research
 
@@ -12,6 +12,14 @@ Video Content Understanding, Aesthetic Assessment, Quality of Experience, Electr
 
 ## Selected Publications
 ### Conference Paper
+* **Improving Image Reconstruction and Synthesis by Balancing the Optimization from Frequency Perspective**.  
+**ICME 2024**.  
+Xuan Dang, Xun Wu, **Guolong Wang**, Zheng Qin. 
+
+* **Keep Knowledge in Perception: Zero-Shot Image Aesthetic Assessment**. [code](https://github.com/LikeGiver/KZIAA) 
+**ICASSP 2024**.  
+**Guolong Wang**, et al. 
+
 * **Instance-Aware Hierarchical Structured Policy for Prompt learning in Vision-Language Models (Top 3% Paper Recognition)**.  
 **ICASSP 2023**.  
 Xun Wu, **Guolong Wang**, Zhaoyuan Liu, Xuan Dang, Zheng Qin. 
@@ -20,21 +28,9 @@ Xun Wu, **Guolong Wang**, Zhaoyuan Liu, Xuan Dang, Zheng Qin.
 **ACM Multimedia 2022**.  
 **Guolong Wang**, Xun Wu, Zhaoyuan Liu, Junchi Yan. 
 
-* **Dense Video Captioning for Incomplete Videos**.  
-**ICANN 2021**.  
-Xuan Dang, **Guolong Wang**, Kun Xiong, Zheng Qin. 
-
 * **Learning to Select Elements for Graphic Design**.  
 **ICMR 2020**.  
 **Guolong Wang**, Junchi Yan, Zheng Qin.
-
-* **Towards Personalized Aesthetic Image Caption**.  
-**IJCNN 2020**.  
-Kun Xiong, Liu Jiang, Xuan Dang, **Guolong Wang**, Wenwen Ye, Zheng Qin. 
-
-* **Delving into Precise Attention in Image Captioning**.  
-**ICONIP 2019**.  
-Shaohan Hu, Shenglei Huang, **Guolong Wang**, Zhipeng Li, Zheng Qin. 
 
 * **Collaborative and Attentive Learning for Personalized Image Aesthetic Assessment**.  
 **IJCAI 2018**.  
@@ -48,15 +44,10 @@ Shaohan Hu, Shenglei Huang, **Guolong Wang**, Zhipeng Li, Zheng Qin.
 **MMM 2018**  
 Kaiping Xu, Zheng Qin, **Guolong Wang**, et al.
 
-* **Recognizing Emotions Based on Human Actions in Videos**.  
-**MMM 2017**.  
-**Guolong Wang**, et al. 
-
-* **Semantic Sequence Analysis for Human Activity Prediction**.  
-**PCM 2017**.  
-**Guolong Wang**, et al. 
-
 ### Journal Paper
+* **Progressive Reinforcement Learning for Video Summarization**.  
+**Guolong Wang**, Xun Wu, Junchi Yan. Information Sciences, 2024, 655, 119888.
+
 * **Reducing 0s Bias in Video Moment Retrieval with a Circular Competence-based Captioner**.  
 **Guolong Wang**, Xun Wu, Zhaoyuan Liu, Zheng Qin. Information Processing & Management, 2023, 60(2), 103147.
   
