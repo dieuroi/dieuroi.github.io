@@ -89,7 +89,7 @@ Year | Award | Category
 
 ## Professional Services
 
-* Conference Reviewer for ACM Multimedia, ICME, ICASSP.
+* Conference Reviewer for ICML, ICLR, ACM SIGKDD, ACM Multimedia, ICME, ICASSP.
 * Journal Reviewer for IEEE Transactions on Neural Networks and Learning Systems, Neurocomputing, Information Processing and Management
 
 ---
