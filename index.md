@@ -24,7 +24,7 @@ Xuan Dang, Xun Wu, **Guolong Wang**, Zheng Qin.
 **ICASSP 2023**.  
 Xun Wu, **Guolong Wang**, Zhaoyuan Liu, Xuan Dang, Zheng Qin. 
 
-* **Prompt-based Zero-shot Video Moment Retrieva  [[code]](https://github.com/dieuroi/KPSC)**.  
+* **Prompt-based Zero-shot Video Moment Retrieval [[code]](https://github.com/dieuroi/KPSC)**.  
 **ACM Multimedia 2022**.  
 **Guolong Wang**, Xun Wu, Zhaoyuan Liu, Junchi Yan. 
 
