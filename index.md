@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am an assistant professor at [School of Information Technology & Management, University of International Business and Economics](http://it.uibe.edu.cn/), Beijing, where I work on deep learning, computer vision, and electronic business, etc. Before that, I did my PhD and Master at school of Software, [Tsinghua University](https://www.tsinghua.edu.cn/), where I was supervised by Prof. [Zheng Qin](https://www.thss.tsinghua.edu.cn/en/faculty/zhengqin.htm). I did my bachelor at school of information science and technology, [Southwest Jiaotong University](https://www.swjtu.edu.cn/). In the course of my research, I am delighted to cooperated with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/), and Dr. [Xu Chen](https://xu-chen.com/).
+I am an associate professor at [School of Information Technology & Management, University of International Business and Economics](http://it.uibe.edu.cn/), Beijing, where I work on Agent, AI for Social Science, etc. Before that, I did my PhD and Master at school of Software, [Tsinghua University](https://www.tsinghua.edu.cn/), where I was supervised by Prof. [Zheng Qin](https://www.thss.tsinghua.edu.cn/en/faculty/zhengqin.htm). I did my bachelor at school of information science and technology, [Southwest Jiaotong University](https://www.swjtu.edu.cn/). In the course of my research, I am delighted to cooperated with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/), and Dr. [Xu Chen](https://xu-chen.com/).
 
 ## Research
 
@@ -12,9 +12,17 @@ Video Content Understanding, Aesthetic Assessment, Quality of Experience, Electr
 
 ## Selected Publications
 ### Conference Paper
-* **Improving Image Reconstruction and Synthesis by Balancing the Optimization from Frequency Perspective**.  
-**ICME 2024**.  
-Xuan Dang, Xun Wu, **Guolong Wang**, Zheng Qin. 
+* **Boosting text-to-video generative model with MLLMs feedback**.  
+**NeurIPS 2024**.  
+Xun Wu, Shaohan Huang, **Guolong Wang**, Jing Xiong, Furu Wei 
+
+* **Multimodal large language models make text-to-image generative models align better**.  
+**NeurIPS 2024**.  
+Xun Wu, Shaohan Huang, **Guolong Wang**, Jing Xiong, Furu Wei. 
+
+* **Routing evidence for unseen actions in video moment retrieval [[data]](https://github.com/dieuroi/Routing-Evidence)**.  
+**KDD 2024**.  
+**Guolong Wang**, Xun Wu, Zheng Qin, Liangliang Shi. 
 
 * **Keep Knowledge in Perception: Zero-Shot Image Aesthetic Assessment [[code]](https://github.com/LikeGiver/KZIAA)**.  
 **ICASSP 2024**.  
@@ -45,6 +53,12 @@ Xun Wu, **Guolong Wang**, Zhaoyuan Liu, Xuan Dang, Zheng Qin.
 Kaiping Xu, Zheng Qin, **Guolong Wang**, et al.
 
 ### Journal Paper
+* **Keep bright in the dark: Multimodal emotional effects on donation‐based crowdfunding performance and their empathic mechanisms**.  
+**Guolong Wang**, Xun Wu, Xun Tu, Zhaoyuan Liu, Junchi Yan. British Journal of Psychology, 2025.
+
+* **Unsupervised Video Moment Retrieval with Knowledge-Based Pseudo-Supervision Construction**.  
+Rui Guo, **Guolong Wang**, Ding Wu, Zhen Wu. British Journal of Psychology, 2025. ACM Transactions on Information Systems, 2025, 43(1): 1-26.
+
 * **Progressive Reinforcement Learning for Video Summarization**.  
 **Guolong Wang**, Xun Wu, Junchi Yan. Information Sciences, 2024, 655, 119888.
 
@@ -89,8 +103,8 @@ Year | Award | Category
 
 ## Professional Services
 
-* Conference Reviewer for ICML, ICLR, ACM SIGKDD, ACM Multimedia, ICME, ICASSP.
-* Journal Reviewer for IEEE Transactions on Neural Networks and Learning Systems, Neurocomputing, Information Processing and Management
+* Conference Reviewer for ICML, NeurIPS, ICLR, ACM SIGKDD, ICCV, ACM Multimedia, ICME, ICASSP.
+* Journal Reviewer for TIP, TMM, TCSVT, TNNLS, IOTJ, JOIS, Neurocomputing, Information Processing and Management
 
 ---
 
