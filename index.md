@@ -4,11 +4,11 @@ layout: default
 
 ## About Me
 
-I am an associate professor at [School of Information Technology & Management, University of International Business and Economics](http://it.uibe.edu.cn/), Beijing, where I work on Agent, AI for Social Science, etc. Before that, I did my PhD and Master at school of Software, [Tsinghua University](https://www.tsinghua.edu.cn/), where I was supervised by Prof. [Zheng Qin](https://www.thss.tsinghua.edu.cn/en/faculty/zhengqin.htm). I did my bachelor at school of information science and technology, [Southwest Jiaotong University](https://www.swjtu.edu.cn/). In the course of my research, I am delighted to cooperated with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/), and Dr. [Xu Chen](https://xu-chen.com/).
+I am an associate professor at [School of Information Technology & Management, University of International Business and Economics](http://it.uibe.edu.cn/), Beijing, where I work on Agent, AI for Social Science, etc. Before that, I did my PhD and Master at school of Software, [Tsinghua University](https://www.tsinghua.edu.cn/), where I was supervised by Prof. [Zheng Qin](https://www.thss.tsinghua.edu.cn/en/faculty/zhengqin.htm). I did my bachelor at school of information science and technology, [Southwest Jiaotong University](https://www.swjtu.edu.cn/). In the course of my research, I am delighted to cooperated with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/), and Prof. [Xu Chen](https://hub.baai.ac.cn/users/31959).
 
 ## Research
 
-Video Content Understanding, Aesthetic Assessment, Quality of Experience, Electronic Business
+Video Agent, Aesthetic Assessment, Electronic Business
 
 ## Selected Publications
 ### Conference Paper
@@ -98,7 +98,6 @@ Year | Award | Category
 * Teaching Assistant: Introduction to Software Culture, 2014-2021
 * Teaching Assistant: The Impact of Big Data on the Future Society, 2014-Present
 * Teaching Assistant: The Impact of Innovation Driven AI on the Future Society, 2014-Present
-
 
 
 ## Professional Services
