@@ -54,10 +54,10 @@ Kaiping Xu, Zheng Qin, **Guolong Wang**, et al.
 
 ### Journal Paper
 * **Keep bright in the dark: Multimodal emotional effects on donation‐based crowdfunding performance and their empathic mechanisms**.  
-**Guolong Wang**, Xun Wu, Xun Tu, Zhaoyuan Liu, Junchi Yan. British Journal of Psychology, 2025.
+Rui Guo, **Guolong Wang**, Ding Wu, Zhen Wu. British Journal of Psychology, 2025.
 
 * **Unsupervised Video Moment Retrieval with Knowledge-Based Pseudo-Supervision Construction**.  
-Rui Guo, **Guolong Wang**, Ding Wu, Zhen Wu. British Journal of Psychology, 2025. ACM Transactions on Information Systems, 2025, 43(1): 1-26.
+**Guolong Wang**, Xun Wu, Xun Tu, Zhaoyuan Liu, Junchi Yan. ACM Transactions on Information Systems, 2025, 43(1): 1-26.
 
 * **Progressive Reinforcement Learning for Video Summarization**.  
 **Guolong Wang**, Xun Wu, Junchi Yan. Information Sciences, 2024, 655, 119888.
