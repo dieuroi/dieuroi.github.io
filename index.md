@@ -4,11 +4,11 @@ layout: default
 
 ## About Me
 
-I am an associate professor at [School of Artificial Intelligence and Data Science, University of International Business and Economics](http://it.uibe.edu.cn/), Beijing, where I work on Agent, AI for Social Science, etc. Before that, I did my PhD and Master at school of Software, [Tsinghua University](https://www.tsinghua.edu.cn/), where I was supervised by Prof. [Zheng Qin](https://www.thss.tsinghua.edu.cn/en/faculty/zhengqin.htm). I did my bachelor at school of information science and technology, [Southwest Jiaotong University](https://www.swjtu.edu.cn/). In the course of my research, I am delighted to cooperated with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/), and Prof. [Xu Chen](https://hub.baai.ac.cn/users/31959).
+I am an associate professor at [School of Artificial Intelligence and Data Science, University of International Business and Economics](http://it.uibe.edu.cn/), Beijing, where I work on Video Understanding, LLM-based Agent, AI for Human Good, etc. Before that, I did my PhD and Master at school of Software, [Tsinghua University](https://www.tsinghua.edu.cn/), where I was supervised by Prof. [Zheng Qin](https://www.thss.tsinghua.edu.cn/en/faculty/zhengqin.htm). I did my bachelor at school of information science and technology, [Southwest Jiaotong University](https://www.swjtu.edu.cn/). In the course of my research, I am delighted to cooperated with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/), and Prof. [Xu Chen](https://www.ai-engine-lab.com/team). <font color=Orange>I am actively seeking self-motivated students for M.S. and intern positions. If you're interested, please feel free to email me with your CV, thanks!</font> 
 
 ## Research
 
-Video Agent, Aesthetic Assessment, Electronic Business
+Video Understanding, LLM-based Agent, AI for Human Good, Electronic Business
 
 ## Selected Publications
 ### Conference Paper
