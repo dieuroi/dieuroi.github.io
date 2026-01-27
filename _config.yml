@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Guolong Wang
+description: "wangguolong AT uibe.edu.cn"
 logo: "profile.jpg"
-title_template: "%s" 
+title_template: "Guolong Wang" 

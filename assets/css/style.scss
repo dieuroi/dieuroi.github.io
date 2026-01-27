@@ -13,3 +13,12 @@ section {
   float:right;
   padding-bottom:50px;
 }
+
+header img {
+    max-width: 200px;
+    max-height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
