@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am an associate professor at [School of Information Technology & Management, University of International Business and Economics](http://it.uibe.edu.cn/), Beijing, where I work on Agent, AI for Social Science, etc. Before that, I did my PhD and Master at school of Software, [Tsinghua University](https://www.tsinghua.edu.cn/), where I was supervised by Prof. [Zheng Qin](https://www.thss.tsinghua.edu.cn/en/faculty/zhengqin.htm). I did my bachelor at school of information science and technology, [Southwest Jiaotong University](https://www.swjtu.edu.cn/). In the course of my research, I am delighted to cooperated with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/), and Prof. [Xu Chen](https://hub.baai.ac.cn/users/31959).
+I am an associate professor at [School of Artificial Intelligence and Data Science, University of International Business and Economics](http://it.uibe.edu.cn/), Beijing, where I work on Agent, AI for Social Science, etc. Before that, I did my PhD and Master at school of Software, [Tsinghua University](https://www.tsinghua.edu.cn/), where I was supervised by Prof. [Zheng Qin](https://www.thss.tsinghua.edu.cn/en/faculty/zhengqin.htm). I did my bachelor at school of information science and technology, [Southwest Jiaotong University](https://www.swjtu.edu.cn/). In the course of my research, I am delighted to cooperated with Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/), and Prof. [Xu Chen](https://hub.baai.ac.cn/users/31959).
 
 ## Research
 
@@ -12,6 +12,14 @@ Video Agent, Aesthetic Assessment, Electronic Business
 
 ## Selected Publications
 ### Conference Paper
+* **DAPWeb: Construct-Aligned Evaluation of MLLMs for Web-Based Child Mental Screening**.  
+**WWW 2026 Web4Good Track**.  
+Rui Guo, Fengyi Wang, Ling-Yu Lin, **Guolong Wang** 
+
+* **EAGLE: Episodic Appearance-and Geometry-aware Memory for Unified 2D-3D Visual Query Localization in Egocentric Vision**.  
+**AAAI 2026**.  
+Yifei Cao, Yu Liu, **Guolong Wang**, Zhu Liu, Kai Wang, Xianjie Zhang, Jizhe Yu, Xun Tu 
+
 * **Boosting text-to-video generative model with MLLMs feedback**.  
 **NeurIPS 2024**.  
 Xun Wu, Shaohan Huang, **Guolong Wang**, Jing Xiong, Furu Wei 
@@ -53,6 +61,9 @@ Xun Wu, **Guolong Wang**, Zhaoyuan Liu, Xuan Dang, Zheng Qin.
 Kaiping Xu, Zheng Qin, **Guolong Wang**, et al.
 
 ### Journal Paper
+* **Two birds with one stone: Query-dependent moment retrieval in muted video or audio via inter-token interactions**.  
+**Guolong Wang**，Xun Tu, Sutian Hou, Yifei Cao, Ying Lin, Yu Liu. Information Sciences, 2026.
+
 * **Keep bright in the dark: Multimodal emotional effects on donation‐based crowdfunding performance and their empathic mechanisms**.  
 Rui Guo, **Guolong Wang**, Ding Wu, Zhen Wu. British Journal of Psychology, 2025.
 
@@ -69,6 +80,8 @@ Rui Guo, **Guolong Wang**, Ding Wu, Zhen Wu. British Journal of Psychology, 2025
 Kaiping Xu, Zheng Qin, **Guolong Wang**, et al. TIIS, 2018, 12(5): 2253-2272.
 
 ### Book
+* **Introduction to E-commerce**. Zheng Qin, **Guolong Wang**, et al. Springer, 2024, ISBN 978-981-97-7790-7.
+
 * **E-commerce: Concepts, Principles, and Application**. Zheng Qin, Qinghong Shuai, **Guolong Wang**, et al. Springer, 2022, ISBN 978-981-19-6437-4.
 
 * **E-commerce(Chs Ver.)**. Zheng Qin, **Guolong Wang**, et al. Tsinghua University Press, 2022, ISBN 978-730-26-1142-4.
@@ -94,6 +107,7 @@ Year | Award | Category
 
 * Teaching: Practical Machine Learning, 2021-Present
 * Teaching: Software Construction, 2021-Present
+* Teaching: Computer Vision, 2025-Present
 * Teaching Assistant: Introduction to E-commerce, 2014-2021
 * Teaching Assistant: Introduction to Software Culture, 2014-2021
 * Teaching Assistant: The Impact of Big Data on the Future Society, 2014-Present
@@ -102,7 +116,7 @@ Year | Award | Category
 
 ## Professional Services
 
-* Conference Reviewer for ICML, NeurIPS, ICLR, ACM SIGKDD, ICCV, ACM Multimedia, ICME, ICASSP.
+* Conference Reviewer for ICML, NeurIPS, ICLR, ACM SIGKDD, CVPR, ICCV, ACM Multimedia, ICME, ICASSP.
 * Journal Reviewer for TIP, TMM, TCSVT, TNNLS, IOTJ, JOIS, Neurocomputing, Information Processing and Management
 
 ---
