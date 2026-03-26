@@ -116,7 +116,7 @@ Year | Award | Category
 
 ## Professional Services
 
-* Conference Reviewer for ICML, NeurIPS, ICLR, ACM SIGKDD, CVPR, ICCV, ACM Multimedia, ICME, ICASSP.
+* Conference Reviewer for ICLR, ACM SIGKDD, CVPR, ICCV, ECCV, ACM Multimedia, ICME, ICASSP.
 * Journal Reviewer for TIP, TMM, TCSVT, TNNLS, IOTJ, JOIS, Neurocomputing, Information Processing and Management
 
 ---
